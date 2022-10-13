@@ -71,22 +71,22 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  
   
 
-<br/>  
+<br/>   -->
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=comoiypjz7lsnaq5eouq79e0s&cover_image=true&theme=novatorem&show_offline=false&bar_color=8affc8&bar_color_cover=false" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=comoiypjz7lsnaq5eouq79e0s&cover_image=true&theme=novatorem&show_offline=false&bar_color=8affc8&bar_color_cover=false" /></div>   -->
 
-<br/>  
+<!-- <br/>   -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
+<!-- <br/>  
 
 
-<br />
+<br /> -->
 

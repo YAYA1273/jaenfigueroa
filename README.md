@@ -3,35 +3,6 @@
 ## Portafolio: [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm oween, a full stack web development student👨‍💻</div>  
-  
-
-- 🔭 I’m currently studing en <b>academlo</b>  
-  
-
-- 🌱 I’m currently learning full stack web development  
-  
-
-- ⚡ Fun fact: I love cats🐱  
-  
-<br/> 
-
-## Some projects
-
-- <a href="https://manticora-loopstudios-landing-page.netlify.app/" target="_blank"> Rick and morty wiki </a>
-
-- <a href="https://manticora-rickandmorty-wiki.netlify.app" target="_blank"> Loopstudios landing page </a>
-
-- <a href="https://manticora-ecommerce.netlify.app/" target="_blank"> Ecommerce Academlo </a>
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

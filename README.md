@@ -1,4 +1,4 @@
-# Hola soy @jaenfigueroa 👋💻
+<!-- #  -->
 
 
 <!-- <div align="center">
@@ -6,7 +6,7 @@
 </div>   -->
   
 
-<!-- ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>   -->
+# <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div>  
   
 
 <!-- <br/> -->
@@ -48,7 +48,7 @@
 <!-- </td></tr> -->
 </table>  
 
-## 📌 Contactame
+## 📌 Contáctame
 <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

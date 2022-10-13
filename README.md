@@ -6,7 +6,7 @@
 </div>   -->
   
 
-# <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div>  
+<div align="center" font-size="40px"> Hola soy @jaenfigueroa 👋👨‍💻</div>  
   
 
 <!-- <br/> -->

@@ -1,4 +1,4 @@
-# Hola soy @jaenfigueroa
+# Hola soy @jaenfigueroa 👋💻
 
 
 <!-- <div align="center">
@@ -12,7 +12,7 @@
 <!-- <br/> -->
 
 
-## My Skill Set  
+## 📌 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -48,7 +48,7 @@
 <!-- </td></tr> -->
 </table>  
 
-## Connect with me  
+## 📌 Connect with me  
 <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -60,7 +60,7 @@
   
 <br/>  
 
-## Github Stats  
+## 📌 Github Stats  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&&style=flat-square" align="center" />
@@ -70,7 +70,7 @@
 
 <br/>  
 
-## Portafolio
+## 📌 Portafolio
 [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
 
 

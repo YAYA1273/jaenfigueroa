@@ -13,7 +13,7 @@
 <!-- <br/> -->
 
 
-## 🚀 Skills 
+## ✅ Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -49,7 +49,7 @@
 <!-- </td></tr> -->
 </table>  
 
-## 🚀 Contáctame
+## ✅ Contáctame
 <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -61,7 +61,7 @@
   
 <br/>  
 
-## 🚀 Estadísticas de Github  
+## ✅ Estadísticas de Github  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&&style=flat-square" align="center" />
@@ -71,7 +71,7 @@
 
 <br/>  
 
-## 🚀 Portafolio
+## ✅ Portafolio
 [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
 
 

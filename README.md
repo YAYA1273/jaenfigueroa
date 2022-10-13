@@ -42,7 +42,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -67,27 +67,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<!-- ## Recent Blog Posts  
-  
-
-<br/>   -->
-
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=comoiypjz7lsnaq5eouq79e0s&cover_image=true&theme=novatorem&show_offline=false&bar_color=8affc8&bar_color_cover=false" /></div>   -->
-
-<!-- <br/>   -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&&style=flat-square" align="center" />
 </div>  
-  
 
-<!-- <br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
-<br /> -->
 

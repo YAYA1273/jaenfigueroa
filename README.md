@@ -4,7 +4,7 @@
 
 
 <!-- <div align="center"> -->
- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> 
+<!-- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> -->
 <!-- </div> -->
  
  
@@ -41,11 +41,14 @@
 </div>
 
 <!-- </td><td valign="top" width="33%"> -->
-
 <!-- </td></tr> -->
 </table>  
 
+ 
+ 
+ 
 ## 📌 Contáctame
+ 
 <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -58,15 +61,12 @@
 </a>  
 </div>  
   
-<br/>  
 
 ## 📌 Estadísticas de Github  
-  
-  
-  
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/>  
- <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
 </div>
   
 
@@ -76,13 +76,13 @@
 </div>
 
 <div align="center">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&hide_border=true" /> -->
- <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&hide_border=true" /> -->
+<!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
 </div>
 
 
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div>   -->
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div>   
 
 <br/>  
 

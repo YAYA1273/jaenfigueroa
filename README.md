@@ -77,16 +77,8 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jaenfigueroa -->
 
 
-ines (8 sloc)  477 Bytes
-
 <div align="center">
-
-[![Video Label](http://img.youtube.com/vi/TI_w2P1-sR8/0.jpg)](https://youtu.be/TI_w2P1-sR8)
-
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wavescats&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
+<img src="https://komarev.com/ghpvc/?username=wavescats&style=flat-square&color=red" alt="" width="15%" height="15%"/>
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=wavescats" width="15%" height="15%"> -->
 </div>
 

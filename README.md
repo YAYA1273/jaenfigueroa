@@ -88,8 +88,10 @@
   
   
   <h3>Status</h3>
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&theme=omni&hide_border=true" width="15%" height="15%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&theme=omni&hide_border=true"  />
   <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=omni&hide_border=true" width="15%" height="15%"/>
   
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&theme=omni&hide_border=true" /> -->

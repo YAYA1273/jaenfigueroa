@@ -62,12 +62,6 @@
  
  
 ## 📌 Estadísticas de Github  
- 
-<div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/>  -->
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
-</div>
-  
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
@@ -79,6 +73,11 @@
 <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
 </div>
 
+ <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
+</div>
+ 
 <br/>  
 
  

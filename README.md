@@ -2,13 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg">
-</div>
+
 
 # <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div>  
 
-
+<div align="center">
+<img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg">
+</div>
   
 <!-- # Hola soy @jaenfigueroa 👋👨‍💻 📌🚀✅-->
 

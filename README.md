@@ -1,6 +1,3 @@
-<!-- #  -->
-
-
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
@@ -15,8 +12,6 @@
 
 ## 📌 Skills 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -44,8 +39,6 @@
 </div>
 
 <!-- </td><td valign="top" width="33%"> -->
-
-
 
 <!-- </td></tr> -->
 </table>  

@@ -88,11 +88,9 @@
   
   
   <h3>Status</h3>
-<p align="left">
+
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=XFantasy88&theme=omni&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true" />
-</p>
-<p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XFantasy88&show_icons=true&theme=omni&hide_border=true" />
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=XFantasy88&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" />
-</p>
+

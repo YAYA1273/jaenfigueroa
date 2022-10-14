@@ -10,7 +10,7 @@
  
 <!-- # Hola soy @jaenfigueroa 👋👨‍💻 📌🚀✅-->
 
-
+<br/>  
 
 ## 📌 Skills 
 <table><tr><td valign="top" width="33%">
@@ -45,7 +45,7 @@
 </table>  
 
  
- 
+<br/>   
  
 ## 📌 Contáctame
  
@@ -61,7 +61,9 @@
 </a>  
 </div>  
   
-
+<br/> 
+ 
+ 
 ## 📌 Estadísticas de Github  
  
 <div align="center">
@@ -82,7 +84,7 @@
 
 
 
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div>   
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div> -->   
 
 <br/>  
 

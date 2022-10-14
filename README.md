@@ -86,22 +86,7 @@
 ## 📌 Portafolio
 [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
 
-
- https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jaenfigueroa 
-
-  
-
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
-
-
-  
-  
-  
-<!-- <div align="center"> -->
- <h3 align="center"><strong>Visitas del perfil</strong></h3> -->
-
-![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg) 
- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> 
-
-<!-- </div> -->
+ 
+ 

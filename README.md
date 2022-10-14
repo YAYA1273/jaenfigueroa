@@ -8,9 +8,6 @@
 <!-- </div> -->
  
  
-<!-- # Hola soy @jaenfigueroa 👋👨‍💻 📌🚀✅-->
-
-<br/>  
 
 ## 📌 Skills 
 <table><tr><td valign="top" width="33%">
@@ -82,17 +79,15 @@
 <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
 </div>
 
-
-
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div> -->   
-
 <br/>  
 
+ 
+ 
 ## 📌 Portafolio
 [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
 
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jaenfigueroa -->
+ https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jaenfigueroa 
 
   
 
@@ -104,9 +99,9 @@
   
   
 <!-- <div align="center"> -->
-<!-- <h3 align="center"><strong>Visitas del perfil</strong></h3> -->
+ <h3 align="center"><strong>Visitas del perfil</strong></h3> -->
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg) -->
-<!-- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> -->
+![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg) 
+ <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> 
 
 <!-- </div> -->

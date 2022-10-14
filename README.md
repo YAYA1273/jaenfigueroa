@@ -92,11 +92,10 @@
   
   
   
-<div align="center">
+<!-- <div align="center"> -->
 <!-- <h3 align="center"><strong>Visitas del perfil</strong></h3> -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg) -->
 <!-- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> -->
 
-</div>
-
+<!-- </div> -->

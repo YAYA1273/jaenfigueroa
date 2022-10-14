@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
 
+ <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> 
 
 
 # <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div>  

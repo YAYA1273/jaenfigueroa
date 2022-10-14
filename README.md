@@ -91,6 +91,8 @@
   
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
+  </div>
+  <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&hide_border=true"  />
   </div> 
   

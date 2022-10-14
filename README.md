@@ -65,7 +65,6 @@
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&theme=omni&hide_border=true" /> -->
 <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&hide_border=true&layout=compact" align="center" /></div>   -->
 

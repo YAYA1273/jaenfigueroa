@@ -88,5 +88,10 @@
   
   
   
+<div align="center">
+<h3 align="center"><strong>Profile Views</strong></h3>
 
+![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg)
+
+</div>
 

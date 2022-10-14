@@ -84,7 +84,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&hide_border=true" /> 
-  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> 
+ <!-- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> -->
 </div>
 
 

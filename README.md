@@ -4,6 +4,10 @@
   
 
 # <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div>  
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg">
+</div>
   
 <!-- # Hola soy @jaenfigueroa 👋👨‍💻 📌🚀✅-->
 
@@ -89,7 +93,7 @@
   
   
 <div align="center">
-<h3 align="center"><strong>Visitas del perfil</strong></h3>
+<!-- <h3 align="center"><strong>Visitas del perfil</strong></h3> -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/jaenfigueroa/count.svg) -->
 <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg">

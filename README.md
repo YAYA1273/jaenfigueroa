@@ -56,7 +56,7 @@
 </td></tr></table>  
 
 
-### <div align="rigth"> MERN stack </div>
+### <div align="right"> MERN stack </div>
 
 
 

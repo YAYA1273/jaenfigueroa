@@ -57,6 +57,7 @@
 </div>
 </td></tr></table> 
  
+</td><td valign="top" width="33%">
 <br/>   
  
 ## 📌 Contáctame

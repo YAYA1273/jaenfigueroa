@@ -8,13 +8,9 @@
 <!-- </div> -->
  
  
-## 📌 Skills  
-
-### <div align="center"> MERN stack </div>
+## 📌 Skills
 
 <table><tr><td valign="top" width="25%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -58,6 +54,9 @@
 </div>
 
 </td></tr></table>  
+
+
+### <div align="center"> MERN stack </div>
 
 <br/> 
 

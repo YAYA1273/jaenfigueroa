@@ -9,7 +9,7 @@
  
  
 ## 📌 Skills set
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -22,7 +22,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -33,14 +33,14 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Base de datos   
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 

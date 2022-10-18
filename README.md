@@ -8,7 +8,7 @@
 <!-- </div> -->
  
  
-## 📌 Stack Developer: MERN
+## 📌 Stack Development: MERN
 
 <table><tr><td valign="top" width="25%">
 

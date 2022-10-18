@@ -8,7 +8,7 @@
 <!-- </div> -->
  
  
-## 📌 Skills
+## 📌 Stack Developer: MERN
 
 <table><tr><td valign="top" width="25%">
 

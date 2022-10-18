@@ -8,7 +8,7 @@
 <!-- </div> -->
  
  
-## 📌 Skills set
+## 📌 Skills 
 <table><tr><td valign="top" width="25%">
 
 

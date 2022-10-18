@@ -88,7 +88,7 @@
 </div>
 
  <div align="center">
- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
+ <!-- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
 </div>
 
@@ -101,4 +101,8 @@
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
  
+ 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
+</div>
  

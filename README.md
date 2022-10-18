@@ -75,9 +75,9 @@
 <br/> 
  
  
-## 📌 Estadísticas de Github  
+<!-- ## 📌 Estadísticas de Github  -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&hide_border=true"  />  
 </div>
@@ -90,7 +90,7 @@
  <div align="center">
  <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  -->
-</div>
+</div> -->
 
 
  

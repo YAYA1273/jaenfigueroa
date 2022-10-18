@@ -10,7 +10,7 @@
  
 ## 📌 Skills  
 
-<div align="center">  ### MERN stack </div>
+### <div align="center"> MERN stack </div>
 
 <table><tr><td valign="top" width="25%">
 

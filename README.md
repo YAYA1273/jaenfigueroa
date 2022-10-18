@@ -8,7 +8,9 @@
 <!-- </div> -->
  
  
-## 📌 Skills - MERN stack
+## 📌 Skills  
+MERN stack
+
 <table><tr><td valign="top" width="25%">
 
 

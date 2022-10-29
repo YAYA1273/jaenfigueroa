@@ -96,8 +96,8 @@
 
  
  
-## 📌 Portafolio
-[https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)
+<!-- ## 📌 Portafolio  -->
+<!-- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)  -->
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

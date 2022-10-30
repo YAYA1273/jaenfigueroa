@@ -72,6 +72,10 @@
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&hide_border=true&theme=nightowl)
  
  
+## 📌 Website 
+[https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
+
+
 
 ## 📌 Connect with me  
 <div align="center">
@@ -94,10 +98,6 @@
 
 
 <!--  <br/> -->
-
-
-## 📌 Website 
-[https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

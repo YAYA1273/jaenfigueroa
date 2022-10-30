@@ -90,7 +90,7 @@
 
  
  
- ## 📌 Wensite 
+ ## 📌 Website 
  [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
 
 

@@ -66,13 +66,15 @@
 </div> -->
 
 
-
+<div align="center">  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true)
  
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
 
+ </div> 
+ 
 ## 📌 Website 
 [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
 

@@ -1,6 +1,6 @@
 # <div align="center"> I'm Jaen Figueroa, a full-time full-stack freelance developer 👨‍💻🚀</div> 
 
-## 📌 Skills
+## 📌 My Skill Set
 
 <table><tr><td valign="top" width="25%">
 

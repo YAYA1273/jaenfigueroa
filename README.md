@@ -55,7 +55,7 @@
  
 ## 📌 Github Stats
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&hide_border=true"  />  
 </div>
@@ -63,17 +63,13 @@
 <div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&hide_border=true" />
  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> 
-</div>
-
- <div align="center">
- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/>
- <img src="https://visitor-badge.glitch.me/badge?page_id=jaenfigueroa" width="15%" height="15%">  
-</div>
+</div> -->
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&hide_border=true&theme=nightowl)
  
  
 

@@ -1,6 +1,6 @@
 # <div align="center"> I'm Jaen Figueroa, a full-time full-stack freelance developer 👨‍💻🚀</div> 
 
-## 📌 My Skill Set
+## 📌 Skills
 
 <table><tr><td valign="top" width="25%">
 
@@ -77,7 +77,7 @@
 
 
 
-## 📌 Connect with me  
+## 📌 Contact
 <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

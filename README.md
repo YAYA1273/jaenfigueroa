@@ -91,7 +91,7 @@
 </div>
 
 
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=nightowl)
  
  ## 📌 Website 
  [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
@@ -108,4 +108,4 @@
  
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=radical)
+

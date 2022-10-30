@@ -98,7 +98,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="10%" height="10%"/> 
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="13%" height="13%"/> 
 </div>
 
 

@@ -8,7 +8,7 @@
 <!-- </div> -->
  
  
-## 📌 Stack de Desarrollo: MERN
+## 📌 Skills
 
 <table><tr><td valign="top" width="25%">
 

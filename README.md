@@ -1,13 +1,5 @@
-# <div align="center"> Hola soy @jaenfigueroa 👋👨‍💻</div> 
+# <div align="center"> I'm Jaen Figueroa, a full-time full-stack freelance developer 👨‍💻🚀</div> 
 
-
-
-
-<!-- <div align="center"> -->
-<!-- <img src="https://profile-counter.glitch.me/jaenfigueroa/count.svg"> -->
-<!-- </div> -->
- 
- 
 ## 📌 Skills
 
 <table><tr><td valign="top" width="25%">
@@ -35,6 +27,8 @@
 
 </td><td valign="top" width="25%">
 
+ 
+ 
 ### Base de datos   
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -59,7 +53,7 @@
 
 
 
-<!-- ## 📌 Contáctame -->
+<!-- ## 📌 Contact -->
  
 <!-- <div align="center">
 <a href="https://github.com/jaenfigueroa" target="_blank">
@@ -76,7 +70,7 @@
 <!--  <br/> -->
  
  
-<!-- ## 📌 Estadísticas de Github  -->
+<!-- ## 📌 Github Stats  -->
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
@@ -96,8 +90,8 @@
 
  
  
-<!-- ## 📌 Portafolio  -->
-<!-- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)  -->
+ ## 📌 Wensite 
+ [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

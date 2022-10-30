@@ -73,7 +73,7 @@
 <!--  <br/> -->
  
  
-<!-- ## 📌 Github Stats  -->
+## 📌 Github Stats
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&count_private=true&hide_border=true"/>
@@ -91,10 +91,12 @@
 </div>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=nightowl)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=nightowl)
  
- ## 📌 Website 
- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
+## 📌 Website 
+[https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com) 
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

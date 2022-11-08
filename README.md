@@ -37,18 +37,11 @@
 
  
  
-### Database   
+<!-- ### Database   
 <div align="center"></div>
-
 </td><td valign="top" width="25%">
-
-
-
 ### Others
-<div align="center">  
-
-
-</div>
+<div align="center"> </div> -->
 
 </td></tr></table>  
 

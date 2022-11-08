@@ -1,4 +1,4 @@
-# <div align="center"> I'm Jaen Figueroa, a full-time full-stack freelance developer 👨‍💻🚀</div> 
+<!-- # <div align="center"> I'm Jaen Figueroa, a full-time full-stack freelance developer 👨‍💻🚀</div>  -->
 
 
 <!-- <img src="portada.jpg" align="center" style="width: 100%" /> -->

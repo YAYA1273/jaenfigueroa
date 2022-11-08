@@ -40,10 +40,6 @@
  
 ## 📌 Github Stats
 
-
-<img  src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" /> 
-
-
 <div align="center">  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
@@ -51,7 +47,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
 
- </div> 
+</div> 
  
 <!-- ## 📌 Website --> 
 <!-- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)  -->

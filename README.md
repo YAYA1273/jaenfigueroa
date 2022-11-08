@@ -2,7 +2,7 @@
 
 ## 📌 Skills
 
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="53%">
 
 ### Frontend  
 <div > 
@@ -17,7 +17,7 @@
 
 </div>
 
-</td><td valign="top" width="45%">
+</td><td valign="top" width="47%">
 
 
 

@@ -2,8 +2,7 @@
 
 
 
-
-<img src="[./assets/preview.gif](https://scontent.flim13-1.fna.fbcdn.net/v/t39.30808-6/310507250_193346179833059_6815781052150679229_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEWgrs5mBzO5RsjspCjc2I2d2UVgBxoukN3ZRWAHGi6QzTVfpzpSdwRvUnxqEdtGy9HIi7OKwH9ZF5PMFuMvCpD&_nc_ohc=YhtNm2axcYMAX88AQUj&_nc_ht=scontent.flim13-1.fna&oh=00_AfA8Ll6mgy_oysiilC54a_n-MWtp8Yy5PsR2y_rRifw9Sg&oe=63700345)" align="center" style="width: 80%" />
+<img src="./assets/portada.jpg" align="center" style="width: 80%" />
 
 
 ## 📌 Skills

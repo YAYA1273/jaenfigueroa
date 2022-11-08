@@ -33,11 +33,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 
-</td><td valign="top" width="25%">
-
- 
- 
-<!-- ### Database   
+<!-- </td><td valign="top" width="25%">
+### Database   
 <div align="center"></div>
 </td><td valign="top" width="25%">
 ### Others

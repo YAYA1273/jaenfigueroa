@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/portada.jpg" align="center" style="width: 80%" />
+<img src="portada.jpg" align="center" style="width: 80%" />
 
 
 ## 📌 Skills

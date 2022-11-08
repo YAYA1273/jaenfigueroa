@@ -51,4 +51,6 @@
 <!-- ## 📌 Website --> 
 <!-- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)  -->
 
+<br/>
+
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

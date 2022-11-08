@@ -1,7 +1,4 @@
-# 📌 Skills
 ## 📌 Skills
-### 📌 Skills
-
 
 <table><tr><td valign="top" >
 

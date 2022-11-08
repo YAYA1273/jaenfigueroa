@@ -90,20 +90,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true)
  
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="16%" height="16%"/> 
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="18%" height="18%"/> 
 
  </div> 
  
 <!-- ## 📌 Website --> 
 <!-- [https://www.jaenfigueroa.com/](https://www.jaenfigueroa.com)  -->
 
-
-
-
-
-
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
-
-
-
 

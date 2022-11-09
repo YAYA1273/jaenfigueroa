@@ -46,6 +46,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)
  
  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact" width="17%" height="17%"/> 
+ 
+ 
+ 
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
 
 </div> 

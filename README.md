@@ -50,6 +50,6 @@
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center" display="none">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" /> 
 </div>

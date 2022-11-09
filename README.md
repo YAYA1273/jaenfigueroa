@@ -52,4 +52,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" /> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=green" /> 
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=violet" /> 

@@ -1,4 +1,4 @@
-## 📌 Skills
+<!-- ## 📌 Skills -->
 
 <table><tr><td valign="top" >
 
@@ -34,7 +34,7 @@
 </td></tr></table>  
 
 
-<br/>
+<!-- <br/> -->
 
 
 <!-- ## 📌 Github Stats

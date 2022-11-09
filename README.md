@@ -46,7 +46,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)
  
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact" width="17%" height="17%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact" width="100%" height="100%"/> 
  
  
  

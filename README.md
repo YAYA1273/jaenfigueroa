@@ -43,6 +43,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
 
@@ -56,6 +58,3 @@
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

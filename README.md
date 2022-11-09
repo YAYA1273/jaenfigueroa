@@ -43,7 +43,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true)
-![Anurag's GitHub stats]([http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)
+![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact)
  
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
  

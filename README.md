@@ -51,7 +51,5 @@
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" /> 
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="0%" height="0%"/> 
- 
 </div>

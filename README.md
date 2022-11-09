@@ -51,9 +51,4 @@
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="16%" height="16%"/> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="15%" height="15%"/> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="14%" height="14%"/> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="13%" height="13%"/> 
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" /> 
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=blue" /> 

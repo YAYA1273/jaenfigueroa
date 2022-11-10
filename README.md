@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./header.gif" /> 
+</div>
+
 ## 📌 My Skill Set
 
 <table><tr><td valign="top" >

@@ -36,19 +36,16 @@
 
 ## 📌 Github Stats
 
-<div align="center">
+<!-- <div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true)
 
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
 
-</div> 
+</div>  -->
  
-<br/>
 
-
-![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -57,3 +54,9 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=jaenfigueroa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+
+
+<br/>
+
+
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)

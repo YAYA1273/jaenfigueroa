@@ -61,7 +61,7 @@
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true&theme=tokyonight$border=none)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&theme=tokyonight)
 
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 

@@ -1,4 +1,4 @@
-<!-- ## 📌 Skills -->
+## 📌 Skills
 
 <table><tr><td valign="top" >
 
@@ -37,7 +37,7 @@
 <!-- <br/> -->
 
 
-<!-- ## 📌 Github Stats
+## 📌 Github Stats
 
 <div align="center">  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
@@ -46,11 +46,8 @@
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/> 
 </div> 
  
-<br/> -->
+<br/>
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" />
-<div>

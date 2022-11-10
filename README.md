@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <img src="./header.gif" />  -->
+<img src="./header.gif" /> 
 </div>
 
 ## 📌 My Skill Set

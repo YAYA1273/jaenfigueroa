@@ -79,7 +79,7 @@
 </div>
 </td></tr></table>   -->
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <table><tr><td valign="top" >
  <img width="70px" 
@@ -93,7 +93,7 @@
  <img width="65px" 
     height="65px" 
     style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp; &nbsp;
+    src="./assets/javascript.svg"> &nbsp; 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -108,7 +108,7 @@
     height="60px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
- <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
 <img
     height="65px" 
     style="margin: 10px"
@@ -134,7 +134,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
 <img
-    height="55px" 
+    height="50px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </td></tr></table>  

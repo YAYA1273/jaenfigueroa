@@ -52,9 +52,7 @@
     height="65px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
-  <img height="65px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a> &nbsp;
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a>
 <img 
     height="70px" 
@@ -72,8 +70,8 @@
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
-<img  width="155px"
-    height="70px" 
+<img  
+    height="60px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </div>

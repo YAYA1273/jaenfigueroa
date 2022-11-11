@@ -48,11 +48,10 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
-  <img width="60px" 
+  <img width="50px" 
     height="70px" 
     style="margin: 10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<!-- <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="65" /></a> -->
 <img width="140px"
     height="70px" 
     style="margin: 10px"

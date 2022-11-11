@@ -50,23 +50,7 @@
     src="./assets/node.svg">
 <!-- <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="65" /></a> -->
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="65" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="65" /></a>
- <img width="90px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
-  <img width="100px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
-  <img width="110px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
-   <img width="120px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
+<!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="65" /></a> -->
    <img width="130px"
     height="70px" 
     style="margin: 10px"

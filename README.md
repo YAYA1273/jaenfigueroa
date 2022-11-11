@@ -57,8 +57,11 @@
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
+ <img width="70px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"> &nbsp;
 
- 
  </div>
  
  

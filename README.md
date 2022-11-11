@@ -57,7 +57,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"> &nbsp;
-<img width="50px" 
+<img width="60px" 
     height="70px" 
     style="margin: 10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp; &nbsp;

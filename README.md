@@ -108,7 +108,7 @@
     height="60px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a> &nbsp;
 <img
     height="65px" 
     style="margin: 10px"

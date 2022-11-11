@@ -71,7 +71,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
 <img  
-    height="60px" 
+    height="55px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </div>

@@ -48,6 +48,10 @@
 
 <div  >  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> 
+<img
+    height="60px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="65" /></a>
   <img height="65px" 
     style="margin: 10px"
@@ -73,10 +77,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
-<img
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
+
 
  </div>
  

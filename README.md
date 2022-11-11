@@ -106,7 +106,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
 
-z<!-- ![GitHub followers](https://img.shields.io/github/followers/jaenfigueroa?style=flat&label=FOLLOWERS)  -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/jaenfigueroa?style=flat&label=FOLLOWERS)  -->
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=PROFILE VIEWS  &color=red&style=flat"/>
 
 </div> 

@@ -56,7 +56,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a>
-<img width="70px" 
+<img 
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">

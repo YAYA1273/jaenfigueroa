@@ -49,7 +49,7 @@
     style="margin: 10px"
     src="./assets/node.svg">
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="65" /></a>
-<img width="130px"
+<img width="140px"
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;

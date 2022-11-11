@@ -76,19 +76,67 @@
     height="70px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
-
-
- </div>
- 
- 
- 
- 
+</div>
 </td></tr></table>  
 
 
 
 <table><tr><td valign="top" >
- sss
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/html.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/css.svg"> &nbsp;
+ <img width="65px" 
+    height="65px" 
+    style="margin: 10px"
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/react.svg"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> &nbsp;
+<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="65" /></a>  
+ <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a>
+ <img  
+    height="60px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
+ <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> 
+<img
+    height="65px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
+  <img height="65px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a>
+<img 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/node.svg">
+<img width="50px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<img width="150px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
+<img width="70px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
+<img  width="155px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </td></tr></table>  
 
 ## 📌 Connect with me

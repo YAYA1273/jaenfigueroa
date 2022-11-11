@@ -61,7 +61,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"> &nbsp;
-  <img width="120px"
+  <img width="140px"
     height="70px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;

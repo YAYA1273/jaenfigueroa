@@ -35,7 +35,6 @@
     height="60px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
- 
 
 </div>
 
@@ -77,63 +76,8 @@
 </div>
 </td></tr></table>  
 
-<!------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<!-- <table><tr><td valign="top" >
- <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/html.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
- <img width="65px" 
-    height="65px" 
-    style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp; 
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/react.svg"> &nbsp;
- <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> &nbsp;
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="65" /></a>  
- <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a> &nbsp;
- <img  
-    height="60px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a> &nbsp;
-<img
-    height="65px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a> &nbsp;
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a> &nbsp;
-<img 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/node.svg"> &nbsp;
-<img width="50px" 
-    height="70px" 
-    style="margin: 10px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp;
-<img width="170px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
-<img width="80px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
-<img
-    height="60px" 
-    style="margin: 10px"
-    src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
-</td></tr></table>   -->
+
 
 ## 📌 Connect with me
 <div align="center">
@@ -150,6 +94,9 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+
 
 
 ## 📌 Github Stats

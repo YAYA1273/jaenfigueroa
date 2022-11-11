@@ -25,6 +25,10 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/react.svg"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> &nbsp;
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="65" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="65" /></a>  
  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a>

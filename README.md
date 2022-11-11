@@ -12,11 +12,11 @@
  <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/html.svg"> &nbsp;
+    src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> &nbsp;
  <img width="65px" 
     height="65px" 
     style="margin: 10px"

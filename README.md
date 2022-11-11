@@ -30,7 +30,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> &nbsp;
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="65" /></a>  
- <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a>
+ <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a> &nbsp;
  <img  
     height="60px" 
     style="margin: 10px"
@@ -47,21 +47,21 @@
 ### Backend
 
 <div  >  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> 
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
 <img
     height="65px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a> &nbsp;
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a> &nbsp;
 <img 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">
+    src="./assets/node.svg"> &nbsp;
 <img width="50px" 
     height="70px" 
     style="margin: 10px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp;
 <img width="160px"
     height="70px" 
     style="margin: 10px"
@@ -71,7 +71,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
 <img  
-    height="55px" 
+    height="50px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </div>

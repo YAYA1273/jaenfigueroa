@@ -17,8 +17,8 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/css.svg"> &nbsp;
- <img width="70px" 
-    height="70px" 
+ <img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/javascript.svg"> &nbsp; &nbsp;
 <!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="65" /></a>  

@@ -60,7 +60,7 @@
 <img width="50px" 
     height="70px" 
     style="margin: 10px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp;
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp; &nbsp;
 <img width="180px"
     height="70px" 
     style="margin: 10px"

@@ -48,7 +48,7 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
-  <img width="70px" 
+  <img width="60px" 
     height="70px" 
     style="margin: 10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">

@@ -133,7 +133,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
-<img  width="170px"
+<img
     height="70px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;

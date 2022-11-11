@@ -61,7 +61,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp;
-<img width="170px"
+<img width="180px"
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;

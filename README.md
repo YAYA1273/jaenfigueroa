@@ -68,7 +68,7 @@
 <img width="70px"
     height="70px" 
     style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
+    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp; &nbsp;
 <img  
     height="60px" 
     style="margin: 10px"

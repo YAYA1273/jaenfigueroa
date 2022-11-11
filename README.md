@@ -9,10 +9,10 @@
 ### Frontend
 
 <div > 
- <img width="70px" 
+<img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> &nbsp;
+    src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"

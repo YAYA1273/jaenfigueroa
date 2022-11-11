@@ -54,25 +54,11 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
 <img width="110px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
- <img width="100px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
- <img width="90px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
  <img width="80px"
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
-  <img width="70px"
-    height="70px" 
-    style="margin: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
+
  
  </div>
  

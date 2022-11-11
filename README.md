@@ -72,7 +72,7 @@
 <img  
     height="60px" 
     style="margin: 10px"
-    src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
+    src="https://railway.app/brand/logo-dark.svg"> &nbsp;
 </div>
 </td></tr></table>  
 

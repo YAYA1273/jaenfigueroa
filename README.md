@@ -61,7 +61,7 @@
     height="70px" 
     style="margin: 10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp;
-<img width="160px"
+<img width="170px"
     height="70px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
@@ -70,7 +70,7 @@
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp;
 <img  
-    height="55px" 
+    height="60px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </div>

@@ -4,7 +4,7 @@
 
 ## 📌 My Skill Set
 
-<!-- <table><tr><td valign="top" >
+<table><tr><td valign="top" >
 
 ### Frontend
 
@@ -77,11 +77,11 @@
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
 </div>
-</td></tr></table>   -->
+</td></tr></table>  
 
 <!------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<table><tr><td valign="top" >
+<!-- <table><tr><td valign="top" >
  <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -135,7 +135,7 @@
     height="60px" 
     style="margin: 10px"
     src="https://railway.app/brand/logotype-dark.svg"> &nbsp;
-</td></tr></table>  
+</td></tr></table>   -->
 
 ## 📌 Connect with me
 <div align="center">

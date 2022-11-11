@@ -108,7 +108,8 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&style=flat-square&color=red" alt="" width="17%" height="17%"/>  -->
 
-![GitHub followers](https://img.shields.io/github/followers/jaenfigueroa?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
+<!-- ![GitHub followers](https://img.shields.io/github/followers/jaenfigueroa?style=flat&label=FOLLOWERS)  -->
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat"/>
 
 </div> 
 

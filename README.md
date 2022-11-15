@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" /></a> </p>
+
 
 
 
@@ -116,6 +116,10 @@
 
 <div align="center">
  
+    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" /></a> </p>
+    
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
 

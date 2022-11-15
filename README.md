@@ -117,7 +117,9 @@
 <div align="center">
  
     
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15" alt="jaenfigueroa" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="jaenfigueroa" /> </p>
+    
+    
     
 <!-- https://github-profile-trophy.vercel.app/?username=jaenfigueroa -->
     

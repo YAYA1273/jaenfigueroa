@@ -4,7 +4,7 @@
 
 </br>
 
-<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style&color=blue" alt="JaenDeveloper" height="20px"></a>
+<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue" alt="JaenDeveloper" height="25px"></a>
 
 
 

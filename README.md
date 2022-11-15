@@ -89,6 +89,7 @@
 
 ## 📌 Connect with me
 <div align="left">
+<p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -105,7 +106,7 @@
 <!-- ## 📌 Connect with me:
 <p align="left">
 
-<p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
+
 <a href="https://codepen.io/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaenfigueroa" height="30" width="40" /></a>
 <a href="https://twitter.com/jaendeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaendeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaenfigueroa" height="30" width="40" /></a>

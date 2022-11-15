@@ -119,7 +119,7 @@
  
     
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=4&margin-w=15&margin-h=15" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=4&margin-w=20&margin-h=15" /> 
 </div>
     
     

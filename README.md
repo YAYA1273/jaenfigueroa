@@ -2,6 +2,7 @@
 <img src="./header.gif" /> 
 </div>
 
+<br/>
     
 <p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
 

@@ -92,7 +92,9 @@
 </a>  
 </div>   -->
 
-## 📌 Connect with me
+<p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
+
+## 📌 Connect with me:
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://codepen.io/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaenfigueroa" height="30" width="40" /></a>
@@ -129,7 +131,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frameworks**
 
@@ -140,17 +142,4 @@
 - 📫 How to reach me **jaenfigueroa03042000@gmail.com**
 
 - ⚡ Fun fact **www.pato.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaenfigueroa" height="30" width="40" /></a>
-<a href="https://twitter.com/jaendeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaendeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaenfigueroa" height="30" width="40" /></a>
-<a href="https://fb.com/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaenfigueroa" height="30" width="40" /></a>
-<a href="https://discord.gg/jaen#4443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jaen#4443" height="30" width="40" /></a>
-</p>
-
-
-
-
 

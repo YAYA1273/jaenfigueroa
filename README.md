@@ -4,7 +4,10 @@
 
 </br>
 
+</div align="center">
 <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style" alt="jaendeveloper" height="25px"/></a>
+<div>
+
 
 ## 📌 My Skill Set
 

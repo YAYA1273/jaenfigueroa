@@ -100,7 +100,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="25px"/>
 </a>
     
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logoColor=white alt=github style="margin-bottom: 5px;" height="25px" />
+<!-- <img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logoColor=white alt=github style="margin-bottom: 5px;" height="25px" /> -->
+    
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&logo=github&label=Profile Views  &color=red&style=flat" height="25px"/>
     
 

@@ -117,7 +117,7 @@
 <div align="center">
  
     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" width="60px"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" width="100%"/></a> </p>
     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)

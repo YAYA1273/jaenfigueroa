@@ -3,7 +3,7 @@
 </div>
 
     
-<p align="left"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
+<p align="center"> <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a> </p>
 
 
 
@@ -117,16 +117,11 @@
 
 <div align="center">
  
-    
-
 <img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=5&margin-w=15&margin-h=15" width="90%"/> 
-
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
     
-    
-![GitHub followers](https://img.shields.io/github/followers/jaenfigueroa?style=flat&label=FOLLOWERS) 
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=PROFILE VIEWS  &color=red&style=flat"/>
 
 </div> 

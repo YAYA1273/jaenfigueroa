@@ -116,14 +116,6 @@
 
 <div align="center">
  
-    
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="jaenfigueroa" /> </p>
-    
-    
-    
-<!-- https://github-profile-trophy.vercel.app/?username=jaenfigueroa -->
-    
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
 
@@ -137,12 +129,6 @@
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
 
 
 

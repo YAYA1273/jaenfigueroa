@@ -118,8 +118,8 @@
 <div align="center">
  
     
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=4&margin-w=20&margin-h=15" /> 
+<div align="center" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=4&margin-w=15&margin-h=15" /> 
 </div>
     
     

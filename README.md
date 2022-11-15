@@ -2,6 +2,11 @@
 <img src="./header.gif" /> 
 </div>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" /></a> </p>
+
+
+
 ## 📌 My Skill Set
 
 <table><tr><td valign="top" >
@@ -129,11 +134,11 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa" alt="jaenfigueroa" /></a> </p>
 
 
 
-- 🌱 I’m currently learning **Frameworks**
+
+<!-- - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [www.jaenfigueroa.com](www.jaenfigueroa.com)
 
@@ -141,5 +146,5 @@
 
 - 📫 How to reach me **jaenfigueroa03042000@gmail.com**
 
-- ⚡ Fun fact **www.pato.com**
+- ⚡ Fun fact **www.pato.com** -->
 

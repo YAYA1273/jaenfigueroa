@@ -93,6 +93,9 @@
 <a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue" alt="JaenDeveloper" height="25px"></a>
     
 <a href="https://github.com/jaenfigueroa" target="_blank">
+<img src=https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="25px" />
+</a>
+<a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="25px" />
 </a>
 <a href="https://linkedin.com/in/jaenfigueroa" target="_blank">

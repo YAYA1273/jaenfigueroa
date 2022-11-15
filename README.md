@@ -125,6 +125,8 @@
 
 </div> 
 
+<br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=PROFILE VIEWS  &color=red&style=flat"/>
 </div> 

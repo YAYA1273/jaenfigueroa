@@ -2,8 +2,9 @@
 <img src="./header.gif" /> 
 </div>
 
-<!-- </br> -->
+</br>
 
+<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style&color=blue" alt="jaendeveloper" height="30px"></a>
 
 
 
@@ -89,7 +90,7 @@
 
 <div align="center">
 
-<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge&color=blue" alt="jaendeveloper" height="30px"></a>
+
     
 <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

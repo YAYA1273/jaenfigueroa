@@ -83,7 +83,7 @@
 
 ## 📌 Connect with me
 <div align="left">
-<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style=for-the-badge" alt="jaendeveloper" /></a>
+<a href="https://twitter.com/jaendeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jaendeveloper?logo=twitter&style" alt="jaendeveloper" /></a>
 <!-- <a href="https://github.com/jaenfigueroa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> -->

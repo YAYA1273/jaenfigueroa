@@ -112,7 +112,7 @@
 <a href="https://twitter.com/jaendeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaendeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaenfigueroa" height="30" width="40" /></a>
 <a href="https://fb.com/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaenfigueroa" height="30" width="40" /></a>
-<a href="https://discord.gg/jaen#4443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jaen#4443" height="30" width="40" /></a>
+<a href="https://discord.gg/jaen#4443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jaen#4443" height="40" width="40" /></a>
 </p>
 
 

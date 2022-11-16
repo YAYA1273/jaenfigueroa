@@ -88,7 +88,7 @@
 ## 📌 Connect with me
 
 
-<!-- <div align="center">
+<div align="center">
 
 <a href="https://twitter.com/JaenDeveloper" target="blank">
 <img src=https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="23px" />
@@ -102,18 +102,18 @@
     
     
 
-</div>   -->
+</div>  
 
 
 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://codepen.io/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaenfigueroa" height="30" width="40" /></a>
 <a href="https://twitter.com/jaendeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaendeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaenfigueroa" height="30" width="40" /></a>
 <a href="https://fb.com/jaenfigueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaenfigueroa" height="30" width="40" /></a>
 <a href="https://discord.gg/jaen#4443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jaen#4443" height="40" width="40" /></a>
-</p>
+</p> -->
 
 
 

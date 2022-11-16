@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<a href="https://github.com/jaenfigueroa" target="_blank">
+<a href="https://twitter.com/JaenDeveloper" target="_blank">
 <img src=https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="23px" />
 </a>
 <a href="https://github.com/jaenfigueroa" target="_blank">

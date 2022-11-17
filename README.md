@@ -85,7 +85,7 @@
 
 
 
-## 📌 Github Stats
+<!-- ## 📌 Github Stats
 
 <div align="center" width="280px" >
     
@@ -97,7 +97,7 @@
     
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
     
-</div> 
+</div>  -->
 
 <!-- <br/>
 

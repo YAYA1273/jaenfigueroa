@@ -84,6 +84,7 @@
     style="margin: 10px"
     src="https://www.svgrepo.com/show/303683/heroku-logo.svg"> &nbsp;
 </div> 
+</div> 
 
 </td></tr></table>  
 

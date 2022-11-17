@@ -110,7 +110,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="0px"/>
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="24px"/>
 </div> 
 
 <br/>

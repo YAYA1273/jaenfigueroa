@@ -118,14 +118,14 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="24px"/>
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="0px"/>
 </div> 
 
 
 <br/>
 
 
-![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg) -->
 
 ## 📌 Last projects
 

@@ -77,7 +77,7 @@
     src="https://railway.app/brand/logo-dark.svg"> &nbsp;
 </div>
 <img  
-    height="60px" 
+    height="70px" 
     style="margin: 10px"
     src="https://www.svgrepo.com/show/303683/heroku-logo.svg"> &nbsp;
 </div>

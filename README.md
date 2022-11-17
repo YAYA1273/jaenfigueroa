@@ -110,7 +110,7 @@
 
 
 
-## 📌 Connect with me
+<!-- ## 📌 Connect with me
 
 
 <div align="center">
@@ -125,7 +125,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="24px"/>
 </a>
 
-</div>  
+</div>   -->
 
 
 

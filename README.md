@@ -87,7 +87,22 @@
 </td></tr></table>  
 
 
+## 📌 Connect with me
 
+
+<div align="center">
+
+<a href="https://twitter.com/JaenDeveloper" target="blank">
+<img src=https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="24px" />
+</a>
+<a href="https://github.com/jaenfigueroa" target="blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="24px" />
+</a>
+<a href="https://linkedin.com/in/jaenfigueroa" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="24px"/>
+</a>
+
+</div>  
 
 
 ## 📌 Github Stats
@@ -117,22 +132,7 @@
 
 
 
-## 📌 Connect with me
 
-
-<div align="center">
-
-<a href="https://twitter.com/JaenDeveloper" target="blank">
-<img src=https://img.shields.io/twitter/follow/JaenDeveloper?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="24px" />
-</a>
-<a href="https://github.com/jaenfigueroa" target="blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="24px" />
-</a>
-<a href="https://linkedin.com/in/jaenfigueroa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="24px"/>
-</a>
-
-</div>  
 
 
 ## 📌 Last projects

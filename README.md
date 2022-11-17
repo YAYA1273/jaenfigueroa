@@ -93,7 +93,7 @@
 
 
 
-<!-- ## 📌 Github Stats
+## 📌 Github Stats
 
 <div align="center" width="280px" >
     
@@ -105,17 +105,17 @@
     
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
     
-</div>  -->
+</div> 
 
-<!-- <br/>
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="0px"/>
 </div> 
 
-<br/> -->
+<br/>
 
-<!-- ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg) -->
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 
 

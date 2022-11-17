@@ -75,19 +75,14 @@
     height="60px" 
     style="margin: 10px"
     src="https://railway.app/brand/logo-dark.svg"> &nbsp;
-    
 <img  
     height="80px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"> &nbsp;
-    
 <img  
     height="70px" 
     style="margin: 10px"
     src="https://www.svgrepo.com/show/303683/heroku-logo.svg"> &nbsp;
-</div> 
-</div>
-
 </div> 
 
 </td></tr></table>  

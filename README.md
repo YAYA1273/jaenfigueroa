@@ -93,17 +93,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true)
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
     
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&column=4&margin-w=15&margin-h=15" />  -->
-
 </div> 
 
-<br/>
+<!-- <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="0px"/>
 </div> 
 
-<br/>
+<br/> -->
 
 <!-- ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg) -->
 
@@ -126,7 +124,6 @@
 </a>
 
 </div>   -->
-
 
 
 ## 📌 Last projects

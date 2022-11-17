@@ -54,8 +54,6 @@
     height="80px" 
     style="margin: 10px"
     src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"> &nbsp;
-    
-    
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
 <img
     height="65px" 
